@@ -291,14 +291,16 @@ plt.show()
    
 
 ### Training Accuracy, Validation Accuracy Vs Iteration Plot
-![Screenshot 2024-10-12 205926](https://github.com/user-attachments/assets/5c4a708f-77cb-4bc4-a08c-ecb81dd791f4)
+
+![Screenshot 2024-10-14 205155](https://github.com/user-attachments/assets/8827e7a4-9a9f-4bda-9200-b921ef31fd6a)
 
 </td> 
 
 <td>
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![Screenshot 2024-10-12 205937](https://github.com/user-attachments/assets/c1d1abd1-b0db-4db7-983c-0f39ca0aae7b)
+
+![Screenshot 2024-10-14 205217](https://github.com/user-attachments/assets/bb608c4c-1b1c-4cf0-a6cf-fe9e764984f4)
 
 </td>
 </tr>
