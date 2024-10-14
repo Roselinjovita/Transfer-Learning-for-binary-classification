@@ -2,7 +2,11 @@
 ## Aim
 To Implement Transfer Learning for Horses_vs_humans dataset classification using InceptionV3 architecture.
 ## Problem Statement and Dataset
-### https://laurencemoroney.com/datasets.html
+Develop and train a binary classification model to distinguish between images of horses and humans using transfer learning with the InceptionV3 model. The task involves using both training and validation datasets, implementing data augmentation, and defining custom callbacks to stop training when a target accuracy is reached.
+
+
+## SAMPLE DATASET
+![Screenshot 2024-10-14 103028](https://github.com/user-attachments/assets/7521422c-a037-4105-996b-17a193275497)
 
 ## DESIGN STEPS
 ### STEP 1:
